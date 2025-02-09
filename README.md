@@ -22,3 +22,16 @@ An interactive and insightful data analytics dashboard for Blinkit order trackin
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/ayushi88907/Blinkit_dashboard.git
+
+ ---
+ 
+## 📸 Dashboard Screenshots  
+
+![Dashboard 1](https://github.com/ayushi88907/Blinkit_dashboard/raw/main/DASHBOARD1.png)  
+*Sales Insights Visualization*  
+
+![Dashboard 2](https://github.com/ayushi88907/Blinkit_dashboard/raw/main/DASHBOARD2.png)  
+*Order Performance Analysis*  
+
+![Dashboard 3](https://github.com/ayushi88907/Blinkit_dashboard/raw/main/DASHBOARD3.png)  
+*Profit Margin Trends*  
