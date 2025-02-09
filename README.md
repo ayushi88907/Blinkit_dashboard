@@ -1,20 +1,20 @@
-# Blinkit Dashboard 📊
+# 🌟 Blinkit Dashboard 📊  
 
-An interactive and insightful data analytics dashboard for Blinkit order tracking, designed to provide real-time business insights using Power BI.
+An interactive and insightful data analytics dashboard for **Blinkit order tracking**, designed to provide real-time business insights using **Power BI**.  
 
 ---
 
-## 🚀 Features  
-- 📈 Sales analysis and trends visualization  
-- 🔍 Performance tracking with detailed reports  
-- 📊 Time-based and product-based insights  
-- ⚙️ Filterable and customizable views  
+## 🚀 Key Features  
+✨ **Sales Analysis:** Track sales patterns over time  
+📅 **Time-based Insights:** Analyze order trends by date  
+📦 **Product Performance:** Discover top-performing products  
+⚙️ **Custom Filters:** Tailor visualizations for deep dives  
 
 ---
 
 ## 🛠 Tech Stack  
-- **Power BI** for dashboard creation  
-- **Excel** for data preprocessing    
+- **🔧 Power BI:** Comprehensive dashboard creation  
+- **📊 Excel:** Data preprocessing and management  
 
 ---
 
@@ -23,7 +23,6 @@ An interactive and insightful data analytics dashboard for Blinkit order trackin
    ```bash
    git clone https://github.com/ayushi88907/Blinkit_dashboard.git
 
- ---
  
 ## 📸 Dashboard Screenshots  
 
